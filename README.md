@@ -1,3 +1,7 @@
-👨‍💻 Desenvolvedor Full Stack na Secretária de Finanças do Estado de Rôndonia.
+Me chamo Robson, atuo como Desenvolvedor Full Stack.
 
-![Devices Mockup](/assets/images/2025-05-23_14-19.png)
+### Projetos Pessoais
+#### Finances
+<p>É uma aplicação de gestão financeira pessoal que oferece controle sobre receitas e despesas através de dashboards visuais, análises comparativas e categorização de gastos.</p>
+<p>A plataforma resolve o problema de falta de visibilidade financeira, transformando transações em insumos decisórios.</p>
+<p>Stack: Ruby on Rails · Vite · Shadcn · PostgreSQL</p>
