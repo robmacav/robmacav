@@ -9,7 +9,7 @@ Me chamo Robson, atuo como Desenvolvedor Full Stack.
 
 ## Habilidades Técnicas
 ### Linguagens & Frameworks:
-Ruby on Rails · JavaScript · TypeScript · React · Java
+Ruby on Rails · JavaScript · TypeScript · React · Java · SQL
 ### Bancos de Dados:
 PostgreSQL · Oracle · MySQL · Redis
 ### Infraestrutura & DevOps:
