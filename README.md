@@ -22,5 +22,5 @@ Docker · Docker Compose · CI/CD · Nginx · Rancher · MinIO · Graylog · Dat
 ### Ferramentas de Desenvolvimento:
 Git · GitHub · GitLab · VSCode · Selenium · Apache Solr · Postman · Linux
 
-Metodologias & Boas Práticas
+### Metodologias & Boas Práticas
 Code Review · Documentação Técnica · Observabilidade · Aplicações Monolíticas
